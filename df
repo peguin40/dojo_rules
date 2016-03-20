@@ -1,0 +1,116 @@
+[33mcommit d8d6ad547e1f7229cde1eeab4ec8e7836d9a7bf5[m
+Author: peguin40 <ang.sweechow@dhs.sg>
+Date:   Sun Mar 20 17:48:40 2016 +0800
+
+    Update dojo_rules.md
+
+[33mcommit 1b6078071d575ba6f0f8b874d59383103c91bf43[m
+Author: peguin40 <ang.sweechow@dhs.sg>
+Date:   Sun Mar 20 17:47:16 2016 +0800
+
+    Update introduction.md
+
+[33mcommit fed3c43515dde12625e19f9affe3d820dde9ba35[m
+Merge: a2c5e89 b10e2fd
+Author: peguin40 <ang.sweechow@dhs.sg>
+Date:   Sun Mar 20 17:44:59 2016 +0800
+
+    Merge pull request #2 from peguin40/new_rules
+    
+    Too many people are spilling coffee
+
+[33mcommit b10e2fdafbda11f0a6f2ed2a3027ed23df42e97c[m
+Author: peguin40 <ang.sweechow@dhs.sg>
+Date:   Sun Mar 20 17:44:40 2016 +0800
+
+    Update dojo_rules.md
+
+[33mcommit e0fd8a17425e6fd7cd0ebfc08a317e19ab35252b[m
+Author: Code School Kiddo <codeschool-kiddo@users.noreply.github.com>
+Date:   Sun Mar 20 05:43:56 2016 -0400
+
+    Added new rule about coffee
+
+[33mcommit a2c5e898fc4a222191ea5a688f2e1601f90f5830[m
+Author: peguin40 <ang.sweechow@dhs.sg>
+Date:   Sun Mar 20 17:27:18 2016 +0800
+
+    Update introduction.md
+
+[33mcommit fa587cdb382ab1a62daa8c300dfb4f9ffc9da3a4[m
+Author: peguin40 <ang.sweechow@dhs.sg>
+Date:   Sun Mar 20 17:25:17 2016 +0800
+
+    Update introduction.md
+
+[33mcommit 461ad08ead9cfa811c7b56c78afd0d58f3da6307[m
+Author: peguin40 <ang.sweechow@dhs.sg>
+Date:   Sun Mar 20 17:24:54 2016 +0800
+
+    Create introduction.md
+
+[33mcommit 4a2cee3f506998d0b48d62221c9ef66177a6dec4[m
+Merge: c21c6b6 8a8ca9d
+Author: The Bride <beatrix@revenge.org>
+Date:   Fri Jun 6 10:36:39 2014 -0400
+
+    Merge pull request #11 from githubteacher/master
+    
+    Githubteacher's contributions
+
+[33mcommit c21c6b682627357b653a076b34f721f17f1d4d60[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:30:07 2014 -0400
+
+    Create really_useful_fix.rb
+
+[33mcommit 8a8ca9d6e9972f30a2745eee3b22e0df422fb928[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:33:54 2014 -0400
+
+    Create another_feature.rb
+
+[33mcommit ec145f42fefd6133b592ee54261665d179a8e2cd[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Fri Jun 6 10:30:07 2014 -0400
+
+    Create really_useful_fix.rb
+
+[33mcommit e42abab7fb035c9b6e24c862eebcede158081660[m
+Author: GitHub Sample Teacher <trainingdemos+githubteacher@github.com>
+Date:   Mon Jun 2 15:08:46 2014 -0400
+
+    Most Senseis should be respected
+
+[33mcommit df1d76604f23b2fd60b0c4cc0e44f3f12454aedf[m
+Merge: 648a2df 133e901
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:30:12 2014 -0400
+
+    Merge pull request #1 from PeterBell/master
+    
+    Not every Sensei deserves to be respected
+
+[33mcommit 133e901455498c55d61551a3732590f234d661ed[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:30:47 2014 -0400
+
+    You should respect some Senseis
+
+[33mcommit a4b95d10b08820004335d1496de99ef037ad0663[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Mon Jun 2 14:01:11 2014 -0400
+
+    Not every Sensei deserves to be respected
+
+[33mcommit 648a2dfab4524d9202b283d17265e7bd1a243fa4[m
+Author: Beatrix Kiddo <beatrix@revenge.org>
+Date:   Tue May 27 20:05:18 2014 -0400
+
+    Added README to the project
+
+[33mcommit 6913445a526fcbcaf6208e9f0179e6c4078d6396[m
+Author: Beatrix Kiddo <beatrix@revenge.org>
+Date:   Tue May 27 20:03:57 2014 -0400
+
+    Initial dojo rules
